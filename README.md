@@ -155,5 +155,5 @@ La animación es una técnica para contar historias, desde aventuras fantástica
 - Los datos los obtuvimos de la página de [IMDB](https://www.imdb.com/search/title/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=cd28805a-4e91-4f0f-b066-0db5ff4dd1a7&pf_rd_r=W8H952J28F0JHQ17MNWZ&pf_rd_s=right-6&pf_rd_t=15506&pf_rd_i=boxoffice&ref_=chtbo_gnr_3&genres=animation&explore=title_type,genres).
 - Código disponible [aquí](/R/26.interactivo.R)
 
-![Día 26](output/day26_interactivo.png)
+![Día 26](https://snaraya.github.io/grafico_interactivo/)
 
